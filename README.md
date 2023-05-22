@@ -1,4 +1,5 @@
-# ERC721 NFT Drop Claim Page using Thirdweb SDK [Mumbai Testnet]
+# ERC721 NFT Drop Claim Page using Thirdweb SDK
+## Deployed on Mumbai Testnet with Open Zeppelin Relayer added.
 
 <img src="https://iili.io/Hgv9nGS.png" alt="Hgv9nGS.png" border="0" /></a>
 
