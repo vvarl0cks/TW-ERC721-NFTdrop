@@ -50,3 +50,5 @@ Learn more: https://portal.thirdweb.com/glossary/gasless-transactions
 ## Join our Discord!
 
 For any questions or suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+
+## <p align="center">[🤖 Warlocks!](http://warlocks.netlify.app)
