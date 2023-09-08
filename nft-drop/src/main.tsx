@@ -32,7 +32,11 @@ const activeChain = getChainBySlug(network); */
 
 root.render(
   <React.StrictMode>
-    <ThirdwebProvider activeChain={chain} sdkOptions={sdkOptions}>
+    <ThirdwebProvider 
+     activeChain={chain} 
+     sdkOptions={sdkOptions}
+     clientId={process.env.THIRDWEB_API_KEY}
+     >
       <Toaster />
       <App />
     </ThirdwebProvider>
